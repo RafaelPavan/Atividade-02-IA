@@ -1,2 +1,2 @@
 # Atividade-02-IA
-Exercício referente a aula 2 de Inteligência Artificial
+Exercício referente a atividade 2 de Inteligência Artificial
